@@ -1,0 +1,38 @@
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\bin\Debug\Proyecto (Parte 1).exe.config
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\bin\Debug\Proyecto (Parte 1).exe
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\bin\Debug\Proyecto (Parte 1).pdb
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\bin\Debug\Proyecto (Parte 1).xml
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).vbprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.Form1.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.Resources.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).vbproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).vbproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).exe
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).xml
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).pdb
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.Form2.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.menu1.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.menu2.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.menu3.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.menu4.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 1)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.menu5.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\bin\Debug\Proyecto (Parte 1).exe.config
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\bin\Debug\Proyecto (Parte 1).exe
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\bin\Debug\Proyecto (Parte 1).pdb
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\bin\Debug\Proyecto (Parte 1).xml
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).vbprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.Form1.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.Form2.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.menu1.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.menu2.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.menu3.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.menu4.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.menu5.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto__Parte_1_.Resources.resources
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).vbproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).vbproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).exe
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).xml
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\obj\Debug\Proyecto (Parte 1).pdb
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\bin\Debug\LogIn.mdf
+C:\Users\Rafael\Desktop\Proyecto (Parte 2)\Proyecto (Parte 1)\Proyecto (Parte 1)\bin\Debug\LogIn_log.ldf
